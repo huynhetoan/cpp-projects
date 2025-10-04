@@ -1,9 +1,10 @@
 README.txt
 ===========================
-Rock–Paper–Scissors:
+# Rock–Paper–Scissors:
     g++ Rock_Paper_Scissors.cpp -o 
     Rock_Paper_Scissors.exe
-Simple Address Book:
+#
+# Simple Address Book:
     g++ addressBook.cpp -o addressBook.exe
     .\addressBook.exe
 
